@@ -20,6 +20,10 @@ Part of my Coursera certification for IBM Data Analyst Capstone Project, this an
 - **Demographics**: Highlights gender distribution, country-wise respondent count, age demographics, and educational backgrounds.
 
 This project offers insights into the current tech landscape, future trends, and the diverse demographics of the global developer community.
+![Gender distribution, country-wise respondent count](https://basmaqenab.github.io/pic2.png) 
+
+![Age demographics, and educational backgrounds](https://basmaqenab.github.io/pic1.png) 
+
 - You can find one of my projects deployed [here](https://dataplatform.cloud.ibm.com/dashboards/5499789d-f1a2-46b3-a70f-e18663429467/view/433edb7f30952dee5ef0bde407907907293f7154b6bbd15085d67b495e687597a86945c3c82a4c0cd2400136f7eb105f9c).
 
 
