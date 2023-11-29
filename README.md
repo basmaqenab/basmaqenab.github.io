@@ -19,7 +19,7 @@
 ### One million records data aggregation using SQL with Management sciences for health (_MM YYYY_)   
 ### IT Medical Records System assessment and results visualization (_MM YYYY_)   
 - XXXXXX
-  ![Image Description](basmaqenab.github.io/snakey diag.png)
+![Snakey Diagram](https://basmaqenab.github.io/snakey%20diag.png)
 ### Meta-analysis (_forst plots_) on the association between breast cancer and reproductive factors (_MM YYYY_)   
 ### Rstudio sensitivity tests (_MM YYYY_)   
 ### Excel dashboard (_MM YYYY_)   
