@@ -11,8 +11,15 @@
 - XXXXX
 
 ## Projects
-### Capstone data visualization project on (_MM YYYY_)   
-- XXXXXX
+# Stack Overflow Developer Survey Analysis
+
+Part of my Coursera certification for IBM Data Analyst Capstone Project, this analysis focuses on Stack Overflow's annual Developer Survey:
+
+- **Current Technology Usage**: Explores top 10 languages, databases, platforms, and web frameworks.
+- **Future Technology Trends**: Predicts desired languages, databases, platforms, and web frameworks for the upcoming year.
+- **Demographics**: Highlights gender distribution, country-wise respondent count, age demographics, and educational backgrounds.
+
+This project offers insights into the current tech landscape, future trends, and the diverse demographics of the global developer community.
 - You can find one of my projects deployed [here](https://dataplatform.cloud.ibm.com/dashboards/5499789d-f1a2-46b3-a70f-e18663429467/view/433edb7f30952dee5ef0bde407907907293f7154b6bbd15085d67b495e687597a86945c3c82a4c0cd2400136f7eb105f9c).
 
 
