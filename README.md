@@ -38,7 +38,7 @@ The assessment delved into understanding how the information outlined in the pro
 ![Snakey Diagram](https://basmaqenab.github.io/snakey%20diag.png)
 
 - To view Rstudio code, click
-- To view this project, click [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link).
+- To view the interactive project, click [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link).
 
 ### Meta-analysis (_forst plots_) on the association between breast cancer and reproductive factors (_MM YYYY_)   
 - XXXXX
