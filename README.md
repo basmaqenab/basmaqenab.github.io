@@ -28,12 +28,26 @@ This project offers insights into the current tech landscape, future trends, and
 
 
 ### One million records data aggregation using SQL with Management sciences for health (_MM YYYY_)   
-### IT Medical Records System assessment and results visualization (_MM YYYY_)   
-- XXXXXX
+- XXXXX
+
+### IT Medical Records System assessment and results visualization (_August 2023_)   
+
+As part of my role as a Monitoring and Evaluation Specialist, I spearheaded a program that involved assessing the documentation protocols within an EMR (Electronic Medical Records) system. This assessment aimed to pinpoint the specific areas within the system where crucial information was being documented.
+
+The assessment delved into understanding how information outlined in the protocols was captured across different sections of the EMR system. To visualize these findings comprehensively, I utilized a Sankey diagram, providing a clear depiction of the flow and allocation of documented information within the EMR system.
+
+This project not only involved meticulous assessment but also the presentation of insights using visualization techniques, offering a holistic view of information capture and allocation within the EMR system.
+
 ![Snakey Diagram](https://basmaqenab.github.io/snakey%20diag.png)
 
-- You can find the deployed project [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link). 
+- To view this project, click [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link).
+
 ### Meta-analysis (_forst plots_) on the association between breast cancer and reproductive factors (_MM YYYY_)   
+- XXXXX
+  
 ### Rstudio sensitivity tests (_MM YYYY_)   
+- XXXXX
+  
 ### Excel dashboard (_MM YYYY_)   
+- XXXXX
 
