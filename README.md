@@ -31,6 +31,8 @@ This project offers insights into the current tech landscape, future trends, and
 ### IT Medical Records System assessment and results visualization (_MM YYYY_)   
 - XXXXXX
 ![Snakey Diagram](https://basmaqenab.github.io/snakey%20diag.png)
+
+- You can find one of my projects deployed [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link). 
 ### Meta-analysis (_forst plots_) on the association between breast cancer and reproductive factors (_MM YYYY_)   
 ### Rstudio sensitivity tests (_MM YYYY_)   
 ### Excel dashboard (_MM YYYY_)   
