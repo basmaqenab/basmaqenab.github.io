@@ -24,7 +24,7 @@ This project offers insights into the current tech landscape, future trends, and
 
 ![Age demographics, and educational backgrounds](https://basmaqenab.github.io/pic1.png) 
 
-- You can find one of my projects deployed [here](https://dataplatform.cloud.ibm.com/dashboards/5499789d-f1a2-46b3-a70f-e18663429467/view/433edb7f30952dee5ef0bde407907907293f7154b6bbd15085d67b495e687597a86945c3c82a4c0cd2400136f7eb105f9c).
+- You can find the deployed project [here](https://dataplatform.cloud.ibm.com/dashboards/5499789d-f1a2-46b3-a70f-e18663429467/view/433edb7f30952dee5ef0bde407907907293f7154b6bbd15085d67b495e687597a86945c3c82a4c0cd2400136f7eb105f9c).
 
 
 ### One million records data aggregation using SQL with Management sciences for health (_MM YYYY_)   
@@ -32,7 +32,7 @@ This project offers insights into the current tech landscape, future trends, and
 - XXXXXX
 ![Snakey Diagram](https://basmaqenab.github.io/snakey%20diag.png)
 
-- You can find one of my projects deployed [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link). 
+- You can find the deployed project [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link). 
 ### Meta-analysis (_forst plots_) on the association between breast cancer and reproductive factors (_MM YYYY_)   
 ### Rstudio sensitivity tests (_MM YYYY_)   
 ### Excel dashboard (_MM YYYY_)   
