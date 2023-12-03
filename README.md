@@ -51,13 +51,13 @@ The assessment delved into understanding how the information outlined in the pro
 I conducted a meta-analysis based on a systematic review aiming to assess the correlation between breast cancer risk and various reproductive factors such as parity, age at first birth, and breastfeeding. Utilizing RevMan 5.0 software, I created Forest and funnel plots to visually represent the outcomes of this review.
 
 Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identify potential outliers and influential studies within the data. This involved analyzing externally studentized residuals, Cook’s distances, and other case deletion diagnostics derived from linear regression analyses. These measures were instrumental in assessing the robustness and impact of individual studies on the overall findings.
+
 ![Sample of forest plots generated](https://basmaqenab.github.io/pic4.png) 
 ![Sample of funnel plots generated](https://basmaqenab.github.io/pic5.png) 
 ![Sample of sensitivity analysis performed in R](https://basmaqenab.github.io/p66.png) 
   
 ### Excel dashboard (_July 2021_)   
-
-Within the HSD project, I developed an Excel dashboard. This dashboard generates reports and graphs that dynamically update as new data is entered or deleted. The dashboard provided information on primary CS audit report that could be compiled into a printable report and presented through charts. The report encompassed detailed insights and analysis.
+Within the HSD project, I developed an Excel dashboard. This dashboard generates reports and graphs that dynamically update as new data is entered or deleted. The dashboard provided information on the primary CS audit report that could be compiled into a printable report and presented through charts. The report encompassed detailed insights and analysis.
 
 <video src="https://basmaqenab.github.io/R1.mp4" controls="controls" style="max-width: 730px;">
 </video>
