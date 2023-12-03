@@ -8,9 +8,6 @@
 - B.Sc.Nursing | The University of Jordan (_June 2014_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-
 **Monitoring Evaluation Research and Learning Specialist & Data Analyst @ USAID MTaPS Project (_Feb 2022 - Present_)**
 - XXX
 
