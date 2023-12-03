@@ -48,7 +48,9 @@ The initial dataset comprised 712,324 records within the surveillance system. Th
 ## IT Medical records system assessment and results visualization (_August 2023_)   
 
 As part of my role as a Monitoring and Evaluation Specialist, I worked on a program that involved assessing the documentation of newly introduced practice protocols within an EMR (Electronic Medical Records) system. This assessment aimed to pinpoint the specific areas within the system where crucial information was being documented.
-The assessment delved into understanding how the information outlined in the protocols was captured across different sections of the EMR system. To visualize these findings comprehensively, I utilized a Sankey diagram, in Rstudio providing a clear depiction of the flow and allocation of documented information within the EMR system. This project not only involved meticulous assessment but also the presentation of insights using visualization techniques, offering a holistic view of information capture and allocation within the EMR system.
+The assessment delved into understanding how the information outlined in the protocols was captured across different sections of the EMR system. 
+
+To visualize these findings comprehensively, I utilized a Sankey diagram, in Rstudio providing a clear depiction of the flow and allocation of documented information within the EMR system. This project not only involved meticulous assessment but also the presentation of insights using visualization techniques, offering a holistic view of information capture and allocation within the EMR system.
 
 ![Snakey Diagram](https://basmaqenab.github.io/snakey%20diag.png)
 
