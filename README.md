@@ -54,7 +54,7 @@ To visualize these findings comprehensively, I utilized a Sankey diagram, in Rst
 
 ![Snakey Diagram](https://basmaqenab.github.io/snakey%20diag.png)
 
-- To view the interactive project, click [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link).
+- To view the interactive project, download here [here](https://drive.google.com/file/d/16UQxvIlJBfhHkap2v_E6LX0bZcYBcr4f/view?usp=drive_link).
 
 ## Meta-analysis (_forst plots_) on the association between breast cancer and reproductive factors (_Jan 2019_)   
 
