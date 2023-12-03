@@ -56,6 +56,8 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
 ![Sample of sensitivity analysis performed in R](https://basmaqenab.github.io/p66.png) 
   
 ### Excel dashboard (_July 2021_)   
-![Snakey Diagram](https://basmaqenab.github.io/R1.mp4) 
-- XXXXX
+<video width="320" height="240" controls>
+  <source src="https://basmaqenab.github.io/R1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
