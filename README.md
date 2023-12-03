@@ -1,4 +1,6 @@
-# basmaqenab.github.io
+title: Basmah Qenab
+
+# Data Analyst
 
 
 #### Technical Skills: RStudio, SQL, Python, Capstone 
