@@ -29,7 +29,7 @@ This project offers insights into the current tech landscape, future trends, and
 - You can find the deployed project [here](https://dataplatform.cloud.ibm.com/dashboards/5499789d-f1a2-46b3-a70f-e18663429467/view/433edb7f30952dee5ef0bde407907907293f7154b6bbd15085d67b495e687597a86945c3c82a4c0cd2400136f7eb105f9c).
 
 
-# One million records data aggregation using SQL with Management sciences for health (_August 2022_)   
+# One million records data aggregation using SQL (_August 2022_)   
 As part of my role at MTaPS, I conducted data cleaning, aggregation, visualization, and analysis. This comprehensive process involved several steps: removing duplicate records, filtering data to prioritize relevant records for officials to respond effectively to serious adverse events, and translating labels for data aggregation.
 
 The initial dataset comprised 712,324 records within the surveillance system. This dataset underwent two phases of meticulous cleaning. Initially, duplicate records were identified and removed, resulting in a refined total of 489,461 records. The data cleaning and aggregation processes were executed using Microsoft Data Management in SQL. Subsequently, the tables were extracted and processed in Excel for further analysis.
