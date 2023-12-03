@@ -1,7 +1,6 @@
 # Health Data Analyst
 
-
-#### Technical Skills: RStudio, SQL, Python, Capstone 
+#### Technical Skills: RStudio, SQL, RevMan, Power BI 
 
 ## Education
 - M.Sc.Public Health | The University of Debrecen (_Jan 2019_)
@@ -9,8 +8,17 @@
 
 ## Work Experience
 **Monitoring Evaluation Research and Learning Specialist & Data Analyst @ USAID MTaPS Project (_Feb 2022 - Present_)**
-- XXX
+- Supported data collection, validation, and reporting for project indicators.
+-	Designed data collection tools and conducted quantitative data collection.
+-	Contributed to documentation and dissemination of program results and lessons learned.
+-	Performed data analysis, including data aggregation and visualization.
+-	Conducted literature reviews and fact-checking.
 
+**Project Assistant @ USAID HSD Project (_Jun 2019 - Jun 2021_)**
+- Monitored and evaluated implementing partner’s progress in coordination with the project M&E team.
+-	Ensured timely completion of project deliverables with high quality.
+-	Contributed to monitoring and evaluation efforts, including data quality assessments.
+-	Designed and updated data collection tools for the community outreach program.
 
 ## Projects
 # Stack Overflow Developer Survey Analysis (_April 2023_)
@@ -62,5 +70,11 @@ Within the HSD project, I developed an Excel dashboard. This dashboard generates
 <video src="https://basmaqenab.github.io/R1.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+
 ## Publications
-1. XXXXX
+-	Supporting COVID-19 Vaccines Safety Surveillance in Jordan, April 2022. [here](https://pdf.usaid.gov/pdf_docs/PA00ZVRM.pdf)
+-	National Guidelines to Support Vaginal Births and Reduce Primary Cesarean Section Deliveries, 2020.[here](https://www.moh.gov.jo/EBV4.0/Root_Storage/AR/EB_Info_Page/1%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%82%D9%8A%D8%B5%D8%B1%D9%8A%D8%A9.pdf)
+-	Collaboration and Commitment: Orienting Health Professionals to Protocols for the Rational Use of Antibiotics in Jordan, November 2023.[here](https://www.mtapsprogram.org/news-blog/collaboration-and-commitment-orienting-health-professionals-to-protocols-for-the-rational-use-of-antibiotics-in-jordan/)
+-	Standardizing Infection Prevention and Control Training in Jordan, August 2023.[here](https://www.mtapsprogram.org/news-blog/standardizing-infection-prevention-and-control-training-in-jordan/)
+-	Rationalizing the Use of Antimicrobials in Jordanian Public Hospitals, July 2023. [here](https://www.mtapsprogram.org/news-blog/rationalizing-the-use-of-antimicrobials-in-jordanian-ministry-of-health-hospitals/)
+
