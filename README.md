@@ -4,11 +4,12 @@
 #### Technical Skills: RStudio, SQL, Python, Capstone 
 
 ## Education
-- B.S., Nursing | The University of Jordan (_May 2017_)
+- M.Sc.Public Health | The University of Debrecen (_Jan 2019_)
+- B.Sc.Nursing | The University of Jordan (_June 2014_)
 
 ## Work Experience
-**Data Scientist @ MSh (_June 2022 - Present_)**
-- XXXXX
+**Monitoring Evaluation Research and Learning Specialist & Data Analyst @ USAID MTaPS program (_Feb 2022 - Present_)**
+**Project Assistant @ USAID HSD Project (_Jun 2019 - Jun 2021_)**
 
 ## Projects
 # Stack Overflow Developer Survey Analysis
@@ -28,12 +29,17 @@ This project offers insights into the current tech landscape, future trends, and
 
 
 # One million records data aggregation using SQL with Management sciences for health (_MM YYYY_)   
-- XXXXX
+As part of my role at MTaPS, I conducted data cleaning, aggregation, visualization, and analysis. This comprehensive process involved several steps: removing duplicate records, filtering data to prioritize relevant records for officials to respond effectively to serious adverse events, and translating labels for data aggregation.
+
+The initial dataset comprised 712,324 records within the surveillance system. This dataset underwent two phases of meticulous cleaning. Initially, duplicate records were identified and removed, resulting in a refined total of 489,461 records. The data cleaning and aggregation processes were executed using Microsoft Data Management in SQL. Subsequently, the tables were extracted and processed in Excel for further analysis.
+
+![Snap shot of the SQL code](https://basmaqenab.github.io/pic3.png) 
+- You can find full report on the project [here](https://pdf.usaid.gov/pdf_docs/PA00ZVRM.pdf ).
 
 # IT Medical Records System assessment and results visualization (_August 2023_)   
 
 As part of my role as a Monitoring and Evaluation Specialist, I worked on a program that involved assessing the documentation of newly introduced practice protocols within an EMR (Electronic Medical Records) system. This assessment aimed to pinpoint the specific areas within the system where crucial information was being documented.
-The assessment delved into understanding how the information outlined in the protocols was captured across different sections of the EMR system. To visualize these findings comprehensively, I utilized a Sankey diagram, providing a clear depiction of the flow and allocation of documented information within the EMR system. This project not only involved meticulous assessment but also the presentation of insights using visualization techniques, offering a holistic view of information capture and allocation within the EMR system.
+The assessment delved into understanding how the information outlined in the protocols was captured across different sections of the EMR system. To visualize these findings comprehensively, I utilized a Sankey diagram, in Rstudio providing a clear depiction of the flow and allocation of documented information within the EMR system. This project not only involved meticulous assessment but also the presentation of insights using visualization techniques, offering a holistic view of information capture and allocation within the EMR system.
 
 ![Snakey Diagram](https://basmaqenab.github.io/snakey%20diag.png)
 
