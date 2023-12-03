@@ -67,14 +67,13 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
 ## Excel dashboard (_July 2021_)   
 Within the HSD project, I developed an Excel dashboard. This dashboard generates reports and graphs that dynamically update as new data is entered or deleted. The dashboard provided information on the primary CS audit report that could be compiled into a printable report and presented through charts. The report encompassed detailed insights and analysis.
 
-<video src="https://basmaqenab.github.io/R1.mp4" controls="controls" style="max-width: 730px;">
-</video>
+<video src="https://basmaqenab.github.io/R1.mp4" controls="controls" style="max-width: 730px;"> </video>
 
 
-## Publications
--	Supporting COVID-19 Vaccines Safety Surveillance in Jordan, April 2022. [here](https://pdf.usaid.gov/pdf_docs/PA00ZVRM.pdf)
--	National Guidelines to Support Vaginal Births and Reduce Primary Cesarean Section Deliveries, 2020.[here](https://www.moh.gov.jo/EBV4.0/Root_Storage/AR/EB_Info_Page/1%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%82%D9%8A%D8%B5%D8%B1%D9%8A%D8%A9.pdf)
--	Collaboration and Commitment: Orienting Health Professionals to Protocols for the Rational Use of Antibiotics in Jordan, November 2023.[here](https://www.mtapsprogram.org/news-blog/collaboration-and-commitment-orienting-health-professionals-to-protocols-for-the-rational-use-of-antibiotics-in-jordan/)
--	Standardizing Infection Prevention and Control Training in Jordan, August 2023.[here](https://www.mtapsprogram.org/news-blog/standardizing-infection-prevention-and-control-training-in-jordan/)
--	Rationalizing the Use of Antimicrobials in Jordanian Public Hospitals, July 2023. [here](https://www.mtapsprogram.org/news-blog/rationalizing-the-use-of-antimicrobials-in-jordanian-ministry-of-health-hospitals/)
+## Published Technical Documents and Blogs
+1. Supporting COVID-19 Vaccines Safety Surveillance in Jordan, April 2022. [here](https://pdf.usaid.gov/pdf_docs/PA00ZVRM.pdf)
+2. National Guidelines to Support Vaginal Births and Reduce Primary Cesarean Section Deliveries, 2020.[here](https://www.moh.gov.jo/EBV4.0/Root_Storage/AR/EB_Info_Page/1%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%82%D9%8A%D8%B5%D8%B1%D9%8A%D8%A9.pdf)
+3. Collaboration and Commitment: Orienting Health Professionals to Protocols for the Rational Use of Antibiotics in Jordan, November 2023.[here](https://www.mtapsprogram.org/news-blog/collaboration-and-commitment-orienting-health-professionals-to-protocols-for-the-rational-use-of-antibiotics-in-jordan/)
+4. Standardizing Infection Prevention and Control Training in Jordan, August 2023.[here](https://www.mtapsprogram.org/news-blog/standardizing-infection-prevention-and-control-training-in-jordan/)
+5. Rationalizing the Use of Antimicrobials in Jordanian Public Hospitals, July 2023. [here](https://www.mtapsprogram.org/news-blog/rationalizing-the-use-of-antimicrobials-in-jordanian-ministry-of-health-hospitals/)
 
