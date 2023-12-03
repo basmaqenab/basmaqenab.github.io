@@ -57,6 +57,5 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
   
 ### Excel dashboard (_July 2021_)   
 
-<R1 width="320" height="240" controls>
-  <source src="https://basmaqenab.github.io/R1.mp4" type="R1/mp4">
+<video src="https://basmaqenab.github.io/R1.mp4" controls="controls" style="max-width: 730px;">
 </video>
