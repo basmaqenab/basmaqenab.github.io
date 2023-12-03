@@ -1,6 +1,4 @@
-title: Basmah Qenab
-
-# Data Analyst
+# Health Data Analyst
 
 
 #### Technical Skills: RStudio, SQL, Python, Capstone 
