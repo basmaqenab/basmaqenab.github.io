@@ -13,8 +13,7 @@
 
 **Monitoring Evaluation Research and Learning Specialist & Data Analyst @ USAID MTaPS Project (_Feb 2022 - Present_)**
 - XXX
-**Project Assistant @ USAID HSD Project (_Jun 2019 - Jun 2021_)**
-- XXX
+
 
 ## Projects
 # Stack Overflow Developer Survey Analysis (_April 2023_)
