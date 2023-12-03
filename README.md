@@ -8,10 +8,10 @@
 - B.Sc.Nursing | The University of Jordan (_June 2014_)
 
 ## Work Experience
-** Monitoring Evaluation Research and Learning Specialist & Data Analyst @  USAID MTaPS program (_Feb 2022 - Present_)**
--XXXXXX 
-** Project Assistant @ USAID HSD Project (_Jun 2019 - Jun 2021_)**
--XXXXXX
+**Monitoring Evaluation Research and Learning Specialist & Data Analyst (_Feb 2022 - Present_)**
+- XXX
+**Project Assistant @ USAID HSD Project (_Jun 2019 - Jun 2021_)**
+- XXX
 
 ## Projects
 # Stack Overflow Developer Survey Analysis (_April 2023_)
