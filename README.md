@@ -80,7 +80,7 @@ Within the HSD project, I developed an Excel dashboard. This dashboard generates
 
 ## Certificates
 1.	Coursera data science path courses
-  a.	Data Analysis and Visualization Foundations https://coursera.org/share/5611f037387171c82cdd35a7bac4400b 
+  a.	Data Analysis and Visualization Foundations [here](https://coursera.org/share/5611f037387171c82cdd35a7bac4400b)
   b.	IBM data analyst specialization [here](https://coursera.org/share/f522f638ab0d405de3feb7bcb2fb8825)
   c.	Data analysis with Python [here](https://coursera.org/share/87775cc2122a84f694adbb5b39fede96)
   d.	IBM Data Analyst Capstone Project [here](https://coursera.org/share/adf54694eb2353824ef9e26713e18221)
