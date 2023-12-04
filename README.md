@@ -23,7 +23,7 @@ Credly account [here](https://www.credly.com/users/basma-qenab)
 
 ## Projects
 
-## IT Medical records system assessment and results visualization (_August 2023_)   
+## Medical records information system assessment and results visualization (_August 2023_)   
 
 As part of my role as a Monitoring and Evaluation Specialist, I worked on a program that involved assessing the documentation of newly introduced practice protocols within an EMR (Electronic Medical Records) system. This assessment aimed to pinpoint the specific areas within the system where crucial information was being documented.
 The assessment delved into understanding how the information outlined in the protocols was captured across different sections of the EMR system. 
