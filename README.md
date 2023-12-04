@@ -60,7 +60,9 @@ The initial dataset comprised 712,324 records within the surveillance system. Th
   
 ## Excel dashboard (_July 2021_)   
 Within the HSD project, I developed an Excel dashboard. This dashboard generates reports and graphs that dynamically update as new data is entered or deleted. The dashboard provided information on the primary CS audit report that could be compiled into a printable report and presented through charts. The report encompassed detailed insights and analysis.
-<video src="https://basmaqenab.github.io/R1.mp4" controls="controls" style="max-width: 730px;"> </video>
+
+<video src="https://basmaqenab.github.io/R1.mp4" controls="controls" style="max-width: 730px;"> 
+</video>
 
 ## Meta-analysis on the association between breast cancer and reproductive factors (_Jan 2019_)   
 
