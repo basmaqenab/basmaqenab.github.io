@@ -1,6 +1,7 @@
-# Health Data Analyst
+# Health Data Analyst 
 
 #### Technical Skills: RStudio, SQL, RevMan, Power BI 
+Credly account [here](https://www.credly.com/users/basma-qenab)
 
 ## Education
 - M.Sc.Public Health | The University of Debrecen (_Jan 2019_)
