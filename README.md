@@ -80,9 +80,9 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
 3. Collaboration and Commitment: Orienting Health Professionals to Protocols for the Rational Use of Antibiotics in Jordan, November 2023. Available:[here](https://www.mtapsprogram.org/news-blog/collaboration-and-commitment-orienting-health-professionals-to-protocols-for-the-rational-use-of-antibiotics-in-jordan/)
 4. Standardizing Infection Prevention and Control Training in Jordan, August 2023. Available:[here](https://www.mtapsprogram.org/news-blog/standardizing-infection-prevention-and-control-training-in-jordan/)
 5. Rationalizing the Use of Antimicrobials in Jordanian Public Hospitals, July 2023.Available: [here](https://www.mtapsprogram.org/news-blog/rationalizing-the-use-of-antimicrobials-in-jordanian-ministry-of-health-hospitals/)
-6. Strengthening Standardized Infection Prevention and Control Practices Across Jordan, January 2024. Available:[here] {https://www.mtapsprogram.org/news-blog/strengthening-standardized-infection-prevention-and-control-practices-across-jordan/)
-7. Driving Effective Antibiotic Use Across Health Sectors January 2024. Available: [here] (https://www.mtapsprogram.org/news-blog/driving-effective-antibiotic-use-across-health-sectors/)
-8. Empowering Youth to Combat Antimicrobial Resistance, January 2024. Available:[here] (https://www.mtapsprogram.org/news-blog/empowering-youth-to-combat-antimicrobial-resistance/)
+6. Strengthening Standardized Infection Prevention and Control Practices Across Jordan, January 2024. Available:[here](https://www.mtapsprogram.org/news-blog/strengthening-standardized-infection-prevention-and-control-practices-across-jordan/)
+7. Driving Effective Antibiotic Use Across Health Sectors January 2024. Available: [here](https://www.mtapsprogram.org/news-blog/driving-effective-antibiotic-use-across-health-sectors/)
+8. Empowering Youth to Combat Antimicrobial Resistance, January 2024. Available:[here](https://www.mtapsprogram.org/news-blog/empowering-youth-to-combat-antimicrobial-resistance/)
 9. Basmah Qenab, Orsolya Varga, Yasmin Safi. The association between parity, age at first pregnancy, breastfeeding and breast cancer risk: a systematic review and meta-analysis. PROSPERO 2018 CRD42018089056 Available:[https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42018089056]
 
 ## Certificates
