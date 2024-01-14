@@ -84,6 +84,7 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
 7. Driving Effective Antibiotic Use Across Health Sectors January 2024. Available: [here](https://www.mtapsprogram.org/news-blog/driving-effective-antibiotic-use-across-health-sectors/)
 8. Empowering Youth to Combat Antimicrobial Resistance, January 2024. Available:[here](https://www.mtapsprogram.org/news-blog/empowering-youth-to-combat-antimicrobial-resistance/)
 9. Basmah Qenab, Orsolya Varga, Yasmin Safi. The association between parity, age at first pregnancy, breastfeeding and breast cancer risk: a systematic review and meta-analysis. PROSPERO 2018 CRD42018089056 Available:[here](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42018089056)
+10. Qenab, B., & Varga, O. (2018). The association between parity, age at first pregnancy, breast-feeding and the risk of breast cancer in the European continent ""[abstract]. In Proceedings of the International Conference on Cancer Diagnosis & Treatment, August 02-03, 2018, Oslo, Norway. Journal of Cancer Science and Therapy, 10. [here](https://doi.org/10.4172/1948-5956-C9-148)
 
 ## Certificates
 1.	Coursera data science path courses
