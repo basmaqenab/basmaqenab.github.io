@@ -8,7 +8,7 @@ Credly account [here](https://www.credly.com/users/basma-qenab)
 - B.Sc.Nursing | The University of Jordan (_June 2014_)
 
 ## Work Experience
-**Monitoring Evaluation Research and Learning Specialist & Data Analyst @ USAID MTaPS Project (_Feb 2022 - Present_)**
+**Monitoring Evaluation Research and Learning Specialist & Data Analyst @ USAID MTaPS program (_Feb 2022 - Present_)**
 - Supported data collection, validation, and reporting for project indicators.
 -	Designed data collection tools and conducted quantitative data collection.
 -	Contributed to documentation and dissemination of program results and lessons learned.
@@ -23,9 +23,13 @@ Credly account [here](https://www.credly.com/users/basma-qenab)
 
 ## Projects
 
+## Power BI dashboard to visualize health audit data (_ XXX 2024_)   
+As part of my role at MTaPS, I worked on a program that involved creating visuals for audit data, which was presented as numerical percentages and included four relevant indicators. I developed a dashboard using Power BI, leveraging DAX code to create measures that effectively presented the data. This allowed for a clear and comprehensive visualization, facilitating better analysis and decision-making based on the audit results.
+
+
 ## Medical records information system assessment and results visualization (_August 2023_)   
 
-As part of my role as a Monitoring and Evaluation Specialist, I worked on a program that involved assessing the documentation of newly introduced practice protocols within an EMR (Electronic Medical Records) system. This assessment aimed to pinpoint the specific areas within the system where crucial information was being documented.
+As part of my role at MTaPS, I worked on a program that involved assessing the documentation of newly introduced practice protocols within an EMR (Electronic Medical Records) system. This assessment aimed to pinpoint the specific areas within the system where crucial information was being documented.
 The assessment delved into understanding how the information outlined in the protocols was captured across different sections of the EMR system. 
 
 To visualize these findings comprehensively, I utilized a Sankey diagram, in Rstudio providing a clear depiction of the flow and allocation of documented information within the EMR system. This project not only involved meticulous assessment but also the presentation of insights using visualization techniques, offering a holistic view of information capture and allocation within the EMR system.
