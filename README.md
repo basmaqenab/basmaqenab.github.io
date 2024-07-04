@@ -74,7 +74,11 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
 ![Sample of funnel plots generated](https://basmaqenab.github.io/pic5.png) 
 ![Sample of sensitivity analysis performed in R](https://basmaqenab.github.io/p66.png) 
 
-## Published Technical Documents and Blogs
+## Technical Documents and Blogs
+##Scientific articles: Submitted to WHO EMRO Health Journal and currently under peer-review: An Educational Initiative Aimed at Increasing Antimicrobial Resistance Awareness Among School-going Jordanian YouthAvailable:[here](https://drive.google.com/file/d/1OR_2q8Wu4Zi4oKH2iv_zPRuupK5wmHXY/view?usp=sharing)
+##Published study protocol: Basmah Qenab, Orsolya Varga, Yasmin Safi. The association between parity, age at first pregnancy, breastfeeding and breast cancer risk: a systematic review and meta-analysis. PROSPERO 2018 CRD42018089056 Available:[here](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42018089056)
+
+
 1. Supporting COVID-19 Vaccines Safety Surveillance in Jordan, April 2022. Available:[here](https://pdf.usaid.gov/pdf_docs/PA00ZVRM.pdf)
 2. National Guidelines to Support Vaginal Births and Reduce Primary Cesarean Section Deliveries, 2020. Available:[here](https://www.moh.gov.jo/EBV4.0/Root_Storage/AR/EB_Info_Page/1%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%82%D9%8A%D8%B5%D8%B1%D9%8A%D8%A9.pdf)
 3. Collaboration and Commitment: Orienting Health Professionals to Protocols for the Rational Use of Antibiotics in Jordan, November 2023. Available:[here](https://www.mtapsprogram.org/news-blog/collaboration-and-commitment-orienting-health-professionals-to-protocols-for-the-rational-use-of-antibiotics-in-jordan/)
