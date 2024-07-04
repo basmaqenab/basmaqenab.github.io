@@ -27,6 +27,8 @@ Credly account [here](https://www.credly.com/users/basma-qenab)
 As part of my role at MTaPS, I worked on a program that involved creating visuals for audit data, which was presented as numerical percentages and included four relevant indicators. I developed a dashboard using Power BI, leveraging DAX code to create measures that effectively presented the data. This allowed for a clear and comprehensive visualization, facilitating better analysis and decision-making based on the audit results.
 ![Audit Dashboard](https://basmaqenab.github.io/pic6.png)
 ![DEX code sample](https://basmaqenab.github.io/pic7.png)
+Report on audit data Available:[here](https://www.mtapsprogram.org/wp-content/uploads/2024/05/MTaPS-Jordan-Technical-Brief-Rational-Use-of-Antimicrobials-February-2024.pdf)
+
 
 ## Medical records information system assessment and results visualization (_August 2023_)   
 
