@@ -23,7 +23,7 @@ Credly account [here](https://www.credly.com/users/basma-qenab)
 
 ## Projects
 
-## Power BI dashboard to visualize health audit data (_ XXX 2024_)   
+## Power BI dashboard to visualize health audit data (_Feb 2024_)   
 As part of my role at MTaPS, I worked on a program that involved creating visuals for audit data, which was presented as numerical percentages and included four relevant indicators. I developed a dashboard using Power BI, leveraging DAX code to create measures that effectively presented the data. This allowed for a clear and comprehensive visualization, facilitating better analysis and decision-making based on the audit results.
 ![Audit Dashboard](https://basmaqenab.github.io/pic6.png)
 ![DEX code sample](https://basmaqenab.github.io/pic7.png)
