@@ -75,23 +75,16 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
 ![Sample of sensitivity analysis performed in R](https://basmaqenab.github.io/p66.png) 
 
 ## Technical Documents and Blogs
-**Scientific articles**
+**Scientific articles (chi-square test, Z-test for proportions)**
 - Submitted to WHO EMRO Health Journal and currently under peer-review: An Educational Initiative Aimed at Increasing Antimicrobial Resistance Awareness Among School-going Jordanian YouthAvailable:[here](https://drive.google.com/file/d/1OR_2q8Wu4Zi4oKH2iv_zPRuupK5wmHXY/view?usp=sharing)
   
-**Published study protocol**
+**Published study protocol(meta-analysis)**
 - Basmah Qenab, Orsolya Varga, Yasmin Safi. The association between parity, age at first pregnancy, breastfeeding and breast cancer risk: a systematic review and meta-analysis. PROSPERO 2018 CRD42018089056 Available:[here](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42018089056)
 
+**Author in technical documents (data aggregation/analysis)**
+- Enhancing Rational Use of Antimicrobials in Jordan, February 2024. Available:[here](https://www.mtapsprogram.org/wp-content/uploads/2024/05/MTaPS-Jordan-Technical-Brief-Rational-Use-of-Antimicrobials-February-2024.pdf)
+- Supporting COVID-19 Vaccines Safety Surveillance in Jordan, April 2022. Available:[here](https://pdf.usaid.gov/pdf_docs/PA00ZVRM.pdf)
 
-1. Supporting COVID-19 Vaccines Safety Surveillance in Jordan, April 2022. Available:[here](https://pdf.usaid.gov/pdf_docs/PA00ZVRM.pdf)
-2. National Guidelines to Support Vaginal Births and Reduce Primary Cesarean Section Deliveries, 2020. Available:[here](https://www.moh.gov.jo/EBV4.0/Root_Storage/AR/EB_Info_Page/1%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%82%D9%8A%D8%B5%D8%B1%D9%8A%D8%A9.pdf)
-3. Collaboration and Commitment: Orienting Health Professionals to Protocols for the Rational Use of Antibiotics in Jordan, November 2023. Available:[here](https://www.mtapsprogram.org/news-blog/collaboration-and-commitment-orienting-health-professionals-to-protocols-for-the-rational-use-of-antibiotics-in-jordan/)
-4. Standardizing Infection Prevention and Control Training in Jordan, August 2023. Available:[here](https://www.mtapsprogram.org/news-blog/standardizing-infection-prevention-and-control-training-in-jordan/)
-5. Rationalizing the Use of Antimicrobials in Jordanian Public Hospitals, July 2023.Available: [here](https://www.mtapsprogram.org/news-blog/rationalizing-the-use-of-antimicrobials-in-jordanian-ministry-of-health-hospitals/)
-6. Strengthening Standardized Infection Prevention and Control Practices Across Jordan, January 2024. Available:[here](https://www.mtapsprogram.org/news-blog/strengthening-standardized-infection-prevention-and-control-practices-across-jordan/)
-7. Driving Effective Antibiotic Use Across Health Sectors January 2024. Available: [here](https://www.mtapsprogram.org/news-blog/driving-effective-antibiotic-use-across-health-sectors/)
-8. Empowering Youth to Combat Antimicrobial Resistance, January 2024. Available:[here](https://www.mtapsprogram.org/news-blog/empowering-youth-to-combat-antimicrobial-resistance/)
-9. Basmah Qenab, Orsolya Varga, Yasmin Safi. The association between parity, age at first pregnancy, breastfeeding and breast cancer risk: a systematic review and meta-analysis. PROSPERO 2018 CRD42018089056 Available:[here](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42018089056)
-10. Qenab, B., & Varga, O. (2018). The association between parity, age at first pregnancy, breast-feeding and the risk of breast cancer in the European continent [abstract]. In Proceedings of the International Conference on Cancer Diagnosis & Treatment, August 02-03, 2018, Oslo, Norway. Journal of Cancer Science and Therapy, 10. [here](https://doi.org/10.4172/1948-5956-C9-148)
 
 ## Certificates
 1.	Coursera data science path courses
