@@ -83,7 +83,7 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
 
 ## Technical Documents and Blogs
 **Scientific articles (chi-square test, Z-test for proportions)**
-- Submitted for publication: An Educational Initiative Aimed at Increasing Antimicrobial Resistance Awareness Among School-going Jordanian YouthAvailable:[here](https://drive.google.com/file/d/1OR_2q8Wu4Zi4oKH2iv_zPRuupK5wmHXY/view?usp=sharing)
+- Peer-reviewed publication: An Educational Initiative Aimed at Increasing Antimicrobial Resistance Awareness Among School-going Jordanian YouthAvailable:[here](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1462976/full)
   
 **Published study protocol(meta-analysis)**
 - Basmah Qenab, Orsolya Varga, Yasmin Safi. The association between parity, age at first pregnancy, breastfeeding and breast cancer risk: a systematic review and meta-analysis. PROSPERO 2018 CRD42018089056 Available:[here](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42018089056)
