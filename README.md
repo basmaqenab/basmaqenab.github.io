@@ -1,6 +1,6 @@
 # Health Data Analyst 
 
-#### Technical Skills: RStudio, SQL, RevMan, Power BI 
+#### Technical Skills: RStudio, SQL, Python, RevMan, Power BI 
 Credly account [here](https://www.credly.com/users/basma-qenab)
 
 ## Education
@@ -25,6 +25,7 @@ Credly account [here](https://www.credly.com/users/basma-qenab)
 ## Geospatial Analysis of Job Listings: Visualizing Employment Hotspots Using Python and Folium (_Mar 2025_)   
 In this analysis, I utilized Python, along with libraries such as pandas, folium, and matplotlib, to plot job listings across various locations on an interactive map. The dataset includes job positions, company details, and geographic coordinates (latitude and longitude). By grouping the job listings by location and highlighting the top 10 locations with the highest number of jobs in red, while the rest are marked in blue, the map provides a clear visual representation of the geographic distribution of employment opportunities. This visualization helps in identifying key employment hotspots across different regions.
 ![Python code for the map](https://basmaqenab.github.io/pic8.png)
+![map](https://basmaqenab.github.io/pic9.png)
 
 ## Power BI dashboard to visualize health audit data (_Feb 2024_)   
 As part of my role at MTaPS, I worked on a program that involved creating visuals for audit data, which was presented as numerical percentages and included four relevant indicators. I developed a dashboard using Power BI, leveraging DAX code to create measures that effectively presented the data. This allowed for a clear and comprehensive visualization, facilitating better analysis and decision-making based on the audit results.
