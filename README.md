@@ -31,7 +31,7 @@ Project Details / Highlights:
 -	Purpose: Provide an evidence‑driven tool to explore where AI is most/least used in systematic reviews.
 -	Process: Designed iteratively with AI agents for data structuring and user‑friendly charts.
 Link:[View the Dashboard](https://basmaqenab.github.io/AI_Tools_Dashboard_basmaqenab/)
-
+![screenshot](https://basmaqenab.github.io/pic10.png)
 
 ## Geospatial Analysis of Job Listings: Visualizing Employment Hotspots Using Python and Folium (_Mar 2025_)   
 In this analysis, I utilized Python, along with libraries such as pandas, folium, and matplotlib, to plot job listings across various locations on an interactive map. The dataset includes job positions, company details, and geographic coordinates (latitude and longitude). By grouping the job listings by location and highlighting the top 10 locations with the highest number of jobs in red, while the rest are marked in blue, the map provides a clear visual representation of the geographic distribution of employment opportunities. This visualization helps in identifying key employment hotspots across different regions.
