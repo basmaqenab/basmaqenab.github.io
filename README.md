@@ -23,19 +23,15 @@ Credly account [here](https://www.credly.com/users/basma-qenab)
 
 ## Projects
 ## Health Monitoring Device Atlas (_Dec 2025_)   
-Health Device Explorer is an interactive digital platform designed to map, classify, and visualize wearable and implantable health-monitoring technologies across the human body. The platform translates complex scientific evidence into an intuitive, 3D-based interface that allows users to explore health devices by body location, invasiveness level, physiological signals, and supporting research.
+Health Device Atlas is an interactive digital platform designed to map, classify, and visualize wearable and implantable health-monitoring technologies across the human body. The platform translates complex scientific evidence into an intuitive, 3D-based interface that allows users to explore health devices by body location, invasiveness level, physiological signals, and supporting research.
 
 The platform focuses on non-invasive and minimally invasive monitoring technologies, such as smartwatches, smart rings, and biosensors, reflecting the growing shift toward continuous, user-acceptable, real-world health monitoring. Each device is presented with structured metadata, including the physiological parameters measured (e.g., heart rate, blood oxygen, temperature, sleep metrics), signal types, limitations, and links to peer-reviewed studies.
 To enhance usability and standardization, devices are visually encoded by invasiveness level:
+-	● Circle — Non-invasive (wearable)
+-	■ Square — Minimally invasive
+-	▲ Triangle — Invasive
 
-● Circle — Non-invasive (wearable)
-■ Square — Minimally invasive
-▲ Triangle — Invasive
-
-This visual taxonomy enables rapid comparison across device categories and supports evidence-based exploration for researchers, clinicians, policymakers, and digital health innovators.
-By integrating scientific literature, device characteristics, and intuitive visualization, Health Device Explorer bridges the gap between academic research and practical digital health applications, supporting informed decision-making in preventive care, remote monitoring, and future health system design.
-![Audit Dashboard](https://basmaqenab.github.io/pic6.png)
-
+![Video Demo](https://raw.githubusercontent.com/basmaqenab/basmaqenab.github.io/fa583edee3f0465fad958e143916284d07b45f0b/gif1.gif)
 
 ## AI Tools Dashboard for Meta‑Analysis Evidence Synthesis (_Nov 2025_)   
 An interactive dashboard built with HTML on Replit, visualizing how different AI tools are used across the stages of meta-analyses. Developed with the guidance of AI agents, the dashboard helps highlight usage trends, identify gaps, and generate actionable insights for researchers.
