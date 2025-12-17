@@ -120,20 +120,26 @@ Moreover, in addition to employing RevMan, I utilized RStudio 1.1.456 to identif
 
 
 ## Certificates
-1.	Coursera data science path courses
+1.  Machine Learning with Python 2025 [here](https://www.coursera.org/account/accomplishments/verify/021VCCVMK6PY) 
+IBM Data Science Specialization 2025 [here](https://coursera.org/share/177ba1eea2d1fac07aaeebd1bc4416e4) 
+Applied Data Science 2025 [here](https://coursera.org/share/14f02622dd226d0dd6f42424980888ca) 
+Advanced Statistics for Data Science 2025  [here](https://coursera.org/share/eddb9f41e0952566549e9d542ab67a4c) 
+Ontario data science summer school, 2025 [here](https://drive.google.com/drive/folders/1a9j1_azkwEEsykjmbD1TrbhLNBPrejsc?usp=sharing) 
+
+2.	Coursera data science path courses 2020-2023
   a. Advanced Statistics for Data Science Specialization [here](https://www.coursera.org/account/accomplishments/specialization/JLYEGYYH6HEV)
-  b.  Data Analysis and Visualization Foundations [here](https://coursera.org/share/5611f037387171c82cdd35a7bac4400b)
-  c.  Applied Data Science Specialization [here](https://www.coursera.org/account/accomplishments/specialization/42TMEN0SXVOY)
-  d.  IBM Data Science Specialization  [here](https://www.coursera.org/account/accomplishments/specialization/7FV0F64QKNEO)
-  e.	IBM data analyst specialization [here](https://coursera.org/share/f522f638ab0d405de3feb7bcb2fb8825)
-  f.	Data analysis with Python [here](https://coursera.org/share/87775cc2122a84f694adbb5b39fede96)
-  g.	IBM Data Analyst Capstone Project [here](https://coursera.org/share/adf54694eb2353824ef9e26713e18221)
-  h.	Data Visualization with Python [here](https://coursera.org/share/c6fc8b623bccc94b47b3560a0c14b9c6)
-  i.	Databases and SQL for Data Science with Python [here](https://coursera.org/share/0db44743407d365066b83331e8683e99)
-  j.	Excel Basics for Data Analysis [here](https://coursera.org/share/657ec7b0986dad1b8e894a82d2b5fc95)
-  k.	Data Visualization and Dashboards with Excel and Cognos [here](https://coursera.org/share/6a170e4e5f4f364cbba07e50dec2e81e)
+  b. Data Analysis and Visualization Foundations [here](https://coursera.org/share/5611f037387171c82cdd35a7bac4400b)
+  c. Applied Data Science Specialization [here](https://www.coursera.org/account/accomplishments/specialization/42TMEN0SXVOY)
+  d. IBM Data Science Specialization  [here](https://www.coursera.org/account/accomplishments/specialization/7FV0F64QKNEO)
+  e. IBM data analyst specialization [here](https://coursera.org/share/f522f638ab0d405de3feb7bcb2fb8825)
+  f. Data analysis with Python [here](https://coursera.org/share/87775cc2122a84f694adbb5b39fede96)
+  g. IBM Data Analyst Capstone Project [here](https://coursera.org/share/adf54694eb2353824ef9e26713e18221)
+  h. Data Visualization with Python [here](https://coursera.org/share/c6fc8b623bccc94b47b3560a0c14b9c6)
+  i. Databases and SQL for Data Science with Python [here](https://coursera.org/share/0db44743407d365066b83331e8683e99)
+  j. Excel Basics for Data Analysis [here](https://coursera.org/share/657ec7b0986dad1b8e894a82d2b5fc95)
+  k. Data Visualization and Dashboards with Excel and Cognos [here](https://coursera.org/share/6a170e4e5f4f364cbba07e50dec2e81e)
 
-3.	Ontario data science summer school 2023 [here](https://drive.google.com/drive/folders/1SdPMqRCJ8S9j0Wqye9S5lQMdcXmUjmsB?usp=sharing)
-4.	Jordanian one million coders data analysis path on Udacity [here](https://drive.google.com/file/d/1eMBGzybZWThuYCkH-vc5sFsvHVeNnewy/view?usp=sharing)
-5.	Bertelsmann scholarship finalist [here](https://udacity-email.s3.us-west-2.amazonaws.com/Bertelsmann_Scholarship_Creative/Bertelsmann_Challenge_Finalist_Badge.png?bsft_aaid=8d7e276e-4a10-41b2-8868-423fe96dd6b2&bsft_eid=902e8bb5-9838-953b-5e09-40ac86843a81&utm_campaign=sch_600_2022-02-19_ndxxx_bertelsmann_year3_phase1_100-badge&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2022-02-19_ndxxx_bertelsmann_year3_phase1_100-badge&bsft_clkid=d0c9d8e4-1738-4cd3-9043-fa5d7c2b0ccc&bsft_uid=e312400a-98f2-4043-8f55-1da9dee8be12&bsft_mid=47b76bd4-4af5-42cb-ab90-64b6c5d97165&bsft_txnid=d2e7b26b-0fea-474c-80a3-428fde862666&bsft_mime_type=html&bsft_ek=2022-02-23T17%3A02%3A45Z&bsft_lx=4&bsft_tv=11)
-
+4.	Ontario data science summer school 2023 [here](https://drive.google.com/drive/folders/1SdPMqRCJ8S9j0Wqye9S5lQMdcXmUjmsB?usp=sharing)
+5.	Jordanian one million coders data analysis path on Udacity 2021 [here](https://drive.google.com/file/d/1eMBGzybZWThuYCkH-vc5sFsvHVeNnewy/view?usp=sharing)
+6.	Bertelsmann scholarship finalist 2021 [here](https://udacity-email.s3.us-west-2.amazonaws.com/Bertelsmann_Scholarship_Creative/Bertelsmann_Challenge_Finalist_Badge.png?bsft_aaid=8d7e276e-4a10-41b2-8868-423fe96dd6b2&bsft_eid=902e8bb5-9838-953b-5e09-40ac86843a81&utm_campaign=sch_600_2022-02-19_ndxxx_bertelsmann_year3_phase1_100-badge&utm_source=blueshift&utm_medium=email&utm_content=sch_600_2022-02-19_ndxxx_bertelsmann_year3_phase1_100-badge&bsft_clkid=d0c9d8e4-1738-4cd3-9043-fa5d7c2b0ccc&bsft_uid=e312400a-98f2-4043-8f55-1da9dee8be12&bsft_mid=47b76bd4-4af5-42cb-ab90-64b6c5d97165&bsft_txnid=d2e7b26b-0fea-474c-80a3-428fde862666&bsft_mime_type=html&bsft_ek=2022-02-23T17%3A02%3A45Z&bsft_lx=4&bsft_tv=11)
+7. Linkedin courses data management courses, 2020–2021 [here](https://drive.google.com/drive/folders/1MUH56xaVjCc3IIO5L7ASRV2p1Ce7KCoB?usp=sharing) 
