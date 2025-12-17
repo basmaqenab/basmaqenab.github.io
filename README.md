@@ -23,7 +23,7 @@ Credly account [here](https://www.credly.com/users/basma-qenab)
 
 ## Projects
 ## Health Monitoring Device Atlas (_Dec 2025_)   
-Health Device Atlas is an interactive digital platform designed to map, classify, and visualize wearable and implantable health-monitoring technologies across the human body. The platform translates complex scientific evidence into an intuitive, 3D-based interface that allows users to explore health devices by body location, invasiveness level, physiological signals, and supporting research.
+Health Device Atlas is an interactive digital platform built with HTML on Replit. The platform is designed to map, classify, and visualize wearable and implantable health-monitoring technologies across the human body. The platform translates complex scientific evidence into an intuitive, 3D-based interface that allows users to explore health devices by body location, invasiveness level, physiological signals, and supporting research.
 
 The platform focuses on non-invasive and minimally invasive monitoring technologies, such as smartwatches, smart rings, and biosensors, reflecting the growing shift toward continuous, user-acceptable, real-world health monitoring. Each device is presented with structured metadata, including the physiological parameters measured (e.g., heart rate, blood oxygen, temperature, sleep metrics), signal types, limitations, and links to peer-reviewed studies.
 To enhance usability and standardization, devices are visually encoded by invasiveness level:
